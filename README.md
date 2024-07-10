@@ -6,7 +6,7 @@ YouTube maintains a list of the top trending videos on the platform. This data s
  https://www.kaggle.com/datasnaek/youtube-new
 ## Objective
 ### 1-Data Cleaning
-### 2-Exploratory Data Analysis
+### 2-Explore and get insights
 1.Ratio of likes-dislikes in different categories? <br />
 2.Users like videos from which category more? <br />
 3.Top 5 videos that are on trending in each country? <br />
