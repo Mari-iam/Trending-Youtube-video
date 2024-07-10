@@ -7,10 +7,10 @@ YouTube maintains a list of the top trending videos on the platform. This data s
 ## Objective
 ### 1-Data Cleaning
 ### 2-Exploratory Data Analysis
-1.Ratio of likes-dislikes in different categories?
-2.Users like videos from which category more?
-3.Top 5 videos that are on trending in each country?
-4.Is the most liked video also the most trending video?
+1.Ratio of likes-dislikes in different categories? <br />
+2.Users like videos from which category more? <br />
+3.Top 5 videos that are on trending in each country? <br />
+4.Is the most liked video also the most trending video? <br />
 5.Maximum number of days to trending status for a video?
 
 
