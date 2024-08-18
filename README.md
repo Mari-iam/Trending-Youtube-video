@@ -12,5 +12,9 @@ YouTube maintains a list of the top trending videos on the platform. This data s
 3.Top 5 videos that are on trending in each country? <br />
 4.Is the most liked video also the most trending video? <br />
 5.Maximum number of days to trending status for a video?
-
+## Used Technologies
+* Pandas: A Python library used for data manipulation and analysis, especially for handling structured data in the form of DataFrames.
+* NumPy: A library used for numerical computations and handling large arrays and matrices of data.
+* Matplotlib / Seaborn: Libraries used for data visualization to create plots, charts, and graphs during EDA.
+* Scikit-learn: For feature scaling and other preprocessing steps.
 
