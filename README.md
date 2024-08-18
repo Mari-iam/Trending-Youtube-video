@@ -21,4 +21,5 @@ YouTube maintains a list of the top trending videos on the platform. This data s
 * JSON: For parsing JSON (JavaScript Object Notation) data or converting Python objects to JSON format.
 * Pickle: For serializing and deserializing Python objects. You can use it to save Python objects to a file and load them later, which is useful for saving models, data structures, or other Python objects.
 * Six: Important for maintaining compatibility in projects that need to run on both Python 2 and 3.
+* Re: Provides functions and classes for working with regular expressions in Python.
 
